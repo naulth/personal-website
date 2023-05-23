@@ -1,7 +1,5 @@
 
 
-import ResumePDF from '/home/naulth/personal/hayden/client/src/Resume.pdf'
-
 
 function Resume() {
 
